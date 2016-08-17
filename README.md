@@ -1,7 +1,7 @@
 ZLRSACrypto
 ===========
 
-ZLRSACrypto is an easy-to-use RSA library with many utilitie functions.
+ZLRSACrypto is an easy-to-use RSA library with many utility functions.
 
 ###Encryption and decryption without key files
 ZLRSACrypto allows you to generate keypairs and use them instantly,instead of dealing with files.
